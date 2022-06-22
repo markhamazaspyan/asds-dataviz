@@ -51,7 +51,7 @@ results_page = dbc.Container([
                             dbc.Col([
                                 dbc.Row([
                                     dbc.Col(width=3),
-                                    dbc.Col([html.Br(), html.H3('Most popular name for each available year.')], width=6),
+                                    dbc.Col([html.Br(), html.H3('Name Race')], width=6),
                                     html.Div(id='average-rating-by-top-categories-graph1')
                                 ])
                             ],id='average-rating-by-top-categories1', width=6),

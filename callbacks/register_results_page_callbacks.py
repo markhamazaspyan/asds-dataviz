@@ -73,8 +73,8 @@ def register_results_page_callbacks(app):
         # gb_marz = data.groupby("marz")["marz"].count()
         # fig = go.Figure([go.Bar(x=gb_marz.index, y=gb_marz)])
         # fig.update_layout(xaxis={'categoryorder': 'total descending'})
-        fig = plotly.io.read_json("data/graph3.json")
-        graph = dcc.Graph(figure=fig)
+        # fig = plotly.io.read_json("data/graph3.json")
+        graph = html.Iframe(src="https://public.flourish.studio/visualisation/6667677/", width="100%", height="500")
 
         return graph
 

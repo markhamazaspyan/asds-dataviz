@@ -8,6 +8,7 @@ from pages import  find_name_page, results_page
 
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+server = app.server
 register_find_name_page_callbacks(app)
 register_results_page_callbacks(app)
 
