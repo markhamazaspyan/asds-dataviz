@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4546808e-e5d1-4ef9-9423-0e3d18e27dd1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,6 +164,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="422" y="-731" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1655901115786">
+      <screen x="-271" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="422" y="-731" key="#com.intellij.fileTypes.FileTypeChooser/-271.-1080.1920.1080/0.0.1440.900@-271.-1080.1920.1080" timestamp="1655901115786" />
     <state x="427" y="-786" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1655825004792">
       <screen x="-271" y="-1080" width="1920" height="1080" />
     </state>
