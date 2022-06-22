@@ -1,0 +1,4 @@
+from callbacks.register_find_name_page_callbacks import register_find_name_page_callbacks
+# from callbacks.register_overview_page_callbacks import register_overview_page_callbacks
+from callbacks.register_results_page_callbacks import register_results_page_callbacks
+# from callbacks.register_movie_page_callbacks import register_movie_page_callbacks
